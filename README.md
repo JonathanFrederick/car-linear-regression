@@ -9,6 +9,7 @@ Practice using linear regression through exercises looking at data on car sales.
 - To this directory, download:
   - car-worth.ipynb
   - car_data.csv
+  - requirements.txt
 - Run the following codes in terminal in your chosen directory:
   - ```pip install -r requirements.txt```
   - ```ipython notebook```
